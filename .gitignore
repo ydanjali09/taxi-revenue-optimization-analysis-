@@ -1,0 +1,5 @@
+data/yellow_tripdata_2020-01.csv
+
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
